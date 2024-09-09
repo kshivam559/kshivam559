@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshivam559" alt="kshivam559" /></a> </p>
 
-- 🔭 I’m currently working on **WordPress Project's**
+- 🔭 I’m currently working on **Some Project's**
 
-- 💬 Ask me about **WordPress**
+- 💬 Ask me about **WordPress** **Shopify** **Cloud Setup**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
