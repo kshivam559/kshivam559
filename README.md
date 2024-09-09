@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Some Project's**
 
-- 💬 Ask me about **WordPress** **Shopify** **Cloud Setup**
+- 💬 Ask me about **WordPress**, **Shopify**, and **Cloud Setup**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
